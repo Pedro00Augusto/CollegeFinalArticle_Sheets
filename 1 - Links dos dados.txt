@@ -1,0 +1,37 @@
+População 2021 IBGE: https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=resultados
+
+Taxa de Homicídios IPEA: https://www.ipea.gov.br/atlasviolencia/dados-series/20
+
+Indices Ideb INEP: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados
+
+Mortalidade MS: http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/obt10uf.def
+
+Indice de GINI IBGE: https://sidra.ibge.gov.br/pesquisa/pib-munic/tabelas
+
+PIB IBGE: https://sidra.ibge.gov.br/pesquisa/pib-munic/tabelas
+
+Cobertura Vacinal MS: https://datasus.saude.gov.br/acesso-a-informacao/imunizacoes-desde-1994/
+
+População por Ano IBGE: https://sidra.ibge.gov.br/pesquisa/EstimaPop/tabelas
+
+População 2010 IBGE: https://censo2010.ibge.gov.br/sinopse/index.php?dados=8
+
+População 2007 IBGE: https://www.ibge.gov.br/estatisticas/sociais/habitacao/9065-contagem-da-populacao.html?edicao=10189&t=resultados
+
+Esgotamento Sanitário IBGE 2007-2015: https://sidra.ibge.gov.br/pesquisa/pnad/geral/pesquisa-basica
+
+Esgotamento Sanitário IBGE 2010: https://censo2010.ibge.gov.br/sinopse/index.php?dados=P16&uf=00
+
+Esgotamento Sanitário IBGE 2016-2018: https://sidra.ibge.gov.br/tabela/6735
+
+Esgotamento Sanitário IBGE 2019: https://sidra.ibge.gov.br/tabela/7192
+
+IVS e Taxa de desocupação IPEA: http://ivs.ipea.gov.br/index.php/pt/planilha
+
+LIE MCID: https://paineis.cidadania.gov.br/public/extensions/lei-de-incentivo-v2/lei-de-incentivo-v2.html
+
+Interesse Google Trends: https://trends.google.com.br/trends/explore?q=%2Fm%2F06ntj&geo=BR
+
+Anos de estudo 07-15: https://sidra.ibge.gov.br/Tabela/272
+
+Anos de estudo 16-19: https://sidra.ibge.gov.br/tabela/7127
