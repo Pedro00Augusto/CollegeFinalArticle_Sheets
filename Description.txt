@@ -1,0 +1,9 @@
+Descrição em Português
+Para limpar os dados coletados de diversas fontes eu observei cuidadosamente quais eram os dados faltantes e direcionei medidas específicas para completar o painel de dados.
+Se eu tivesse, por exemplo, observaçoes de 2010 e 2012, eu tiraria a média entre estes valores para encontrar o valor para o ano de 2011. Com isso o painel fica balanceado e mantém suas características originais de média e variância.
+Isso é que foi feito para limpar os dados faltantes neste database. Duplicatas ou outras imperfeições não foram encontradas, portanto, não foram aplicadas medidas para corrigir isso.
+
+English Description
+In order to clean the data colected from multiple sources, I'd oberved carefully what was missing and took directed measures to complete my panel data.
+If I had observations from 2010 and from 2012, for example, I took the mean values between 2010 and 2012 to create the data from 2011. This was a good practice because I kept the same average and variance whitin the whole column.
+This was what I did to clean my data that was missing at this database. Duplications or other errors were not found, therefore having no need for cleaning this way.
